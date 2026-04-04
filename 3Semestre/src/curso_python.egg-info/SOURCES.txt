@@ -1,6 +1,0 @@
-README.md
-pyproject.toml
-src/curso_python.egg-info/PKG-INFO
-src/curso_python.egg-info/SOURCES.txt
-src/curso_python.egg-info/dependency_links.txt
-src/curso_python.egg-info/top_level.txt
